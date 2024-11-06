@@ -23,7 +23,9 @@ export const DashboardEmptyState = () => {
         <Image
           src="/brand-asset-wave.png"
           alt="No categories"
-          className="size-48 -mt-24"
+          className="-mt-24"
+          width={192}
+          height={192}
         />
       </div>
 
